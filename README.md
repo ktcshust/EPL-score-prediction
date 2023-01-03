@@ -15,3 +15,5 @@ Artificial Neural Network.ipynb, K Nearest Neighbor.ipynb, XGBoost.ipynb là cá
 Compare model là so sánh các mô hình tốt nhất của 3 thuật toán với nhau
 
 Các thư viện đã được dùng là Numpy, Pandas, Matplotlib, Scikit-learn, XGBoost và Tensorflow
+
+Để theo dõi tiến độ làm việc của nhóm, nên chạy file theo thứ tự như thứ tự được giới thiệu
