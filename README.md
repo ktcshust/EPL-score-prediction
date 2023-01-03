@@ -12,7 +12,7 @@ File Data Preprocessing and Visualization.ipynb là file tiền xử lý dữ li
 
 Artificial Neural Network.ipynb, K-Nearest Neighbor.ipynb, XGBoost.ipynb là các file xây dựng mô hình, xử lý tham số và đo kết quả thực nghiệm trên tập valid và tập test ứng với từng thuật toán và lưu các mô hình
 
-Compare model là so sánh các mô hình tốt nhất của 3 thuật toán với nhau
+Compare all model.ipynb là so sánh các mô hình tốt nhất của 3 thuật toán với nhau
 
 Các thư viện đã được dùng là Numpy, Pandas, Matplotlib, Scikit-learn, XGBoost và Tensorflow
 
