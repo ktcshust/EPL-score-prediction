@@ -9,11 +9,11 @@ HomeGoal : số bàn thắng của đội nhà trước vòng đấu trong mùa 
 AwayGoal : số bàn thắng của đội khách trước vòng đấu trong mùa giải đấy
 HomeConceded : số bàn thua của đội nhà trước vòng đấu trong mùa giải đấy
 AwayConceded : số bàn thua của đội khách trước vòng đấu trong mùa giải đấy
-HomeAvgPoint : số điểm trung bình của đội nhà tính từ đầu mùa 2016/17
-AwayAvgPoint : số điểm trung bình của đội khách tính từ đầu mùa 2016/17
-pastHP : điểm của đội nhà trong 3 vòng gần nhất
-pastAP : điểm của đội khách trong 3 vòng gần nhất
-pastHG : bàn thắng của đội nhà trong 3 vòng gần nhất
-pastAG : bàn thắng của đội khách trong 3 vòng gần nhất
-pastHGC : bàn thua của đội nhà trong 3 vòng gần nhất
-pastAGC : bàn thua của đội khách trong 3 vòng gần nhất
+HomeAvgPoint : số điểm trung bình của đội nhà tính từ đầu mùa 2004/05
+AwayAvgPoint : số điểm trung bình của đội khách tính từ đầu mùa 2004/05
+pastHP : điểm của đội nhà trong 2 vòng gần nhất
+pastAP : điểm của đội khách trong 2 vòng gần nhất
+pastHG : bàn thắng của đội nhà trong 2 vòng gần nhất
+pastAG : bàn thắng của đội khách trong 2 vòng gần nhất
+pastHGC : bàn thua của đội nhà trong 2 vòng gần nhất
+pastAGC : bàn thua của đội khách trong 2 vòng gần nhất
