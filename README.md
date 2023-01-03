@@ -10,7 +10,7 @@ File 2004-2022.ipynb là file tổng hợp dữ liệu các mùa giải đơn l�
 
 File Data Preprocessing and Visualization.ipynb là file tiền xử lý dữ liệu và chọn ra các thuộc tính cần dùng cho bài toán
 
-Artificial Neural Network.ipynb, K Nearest Neighbor.ipynb, XGBoost.ipynb là các file xây dựng mô hình, xử lý tham số và đo kết quả thực nghiệm trên tập valid và tập test ứng với từng thuật toán và lưu các mô hình
+Artificial Neural Network.ipynb, K-Nearest Neighbor.ipynb, XGBoost.ipynb là các file xây dựng mô hình, xử lý tham số và đo kết quả thực nghiệm trên tập valid và tập test ứng với từng thuật toán và lưu các mô hình
 
 Compare model là so sánh các mô hình tốt nhất của 3 thuật toán với nhau
 
