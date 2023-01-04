@@ -4,7 +4,8 @@ Data: Trong tệp data là dữ liệu các mùa giải từ 2004-2005 đến 20
 Model : Trong tệp model là các mô hình mà nhóm đã lưu trong khi thực hiện bài toán
 
 # Code
-Tất cả các file mã nguồn đều là file ipynb (Python Notebook) và được chạy lần lượt từng cell. Những file này có thể chạy trên Jupyter Notebook, Google Colab hay VS Code (miễn là phải có những file dữ liệu trong phần Data và Model)
+Tất cả các file mã nguồn đều là file ipynb (Python Notebook) và được chạy lần lượt từng cell (bằng cách chọn run cell, hoặc để đỡ tốn thời gian có thể run all để hệ thống chạy từng sell một). Những file này có thể chạy trên Jupyter Notebook, Google Colab hay VS Code (miễn là phải có những file dữ liệu trong phần Data và Model)
+Nếu chạy trên VS Code cần cài đặt thêm extension (ví dụ iPython)
 
 File 2004-2022.ipynb là file tổng hợp dữ liệu các mùa giải đơn lẻ và tính toán thêm các thuộc tính mới
 
